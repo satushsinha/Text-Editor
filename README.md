@@ -1,1 +1,1 @@
-"# text-editor" 
+This is a simple text editor build using HTML,CSS and JAVASCRIPT and backend is written using Django framework of python, A person can perform different text edits like capitalizing the first character of a word to removing punctuations from the text. 
